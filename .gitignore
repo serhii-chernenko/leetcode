@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+script.js
+node_modules
+yarn.lock
